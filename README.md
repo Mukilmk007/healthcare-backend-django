@@ -357,7 +357,3 @@ All APIs were tested using Postman.
 
 ---
 
-
-# Author
-
-Mukil K
